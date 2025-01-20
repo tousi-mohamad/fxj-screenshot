@@ -2,7 +2,7 @@
 
 ## Overview
 
-`fxj-screenshot` is a lightweight tool designed to help traders easily capture and save screenshots of their trades. When you run the program, it automatically takes a screenshot and saves it in a directory named after the current date (e.g., `01-18-2025`).
+`fxj-screenshot` is a lightweight tool designed to help traders effortlessly capture and save screenshots of their trades. Upon execution, the program automatically takes a screenshot (e.g., of the trading window) and saves it in a directory named after the current date (e.g., `01-18-2025`).
 
 ## Features
 
