@@ -6,7 +6,7 @@
 
 ## Features
 
-- **Automatic Screenshot Capture**: Take a screenshot of your screen and save it with a date-based filename in C:\forexjournal.
+- **Automatic Screenshot Capture**: Take a screenshot of your screen and save it with a date-based filename in desired location(specify location and monitor number in config.json file).
 - **File Location**: The executable file is located in the `dist` directory, while the Python code is available in the `2.py` file.
 - **Simple to Use**: Easily pin the program to your taskbar for quick access, making it easier to journal your trades as you go.
 
